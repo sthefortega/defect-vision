@@ -1,5 +1,7 @@
 # Data
 /data/
+/notebooks/mvtec_cable_yolo_cls/
+/runs/classify/
 
 # Mac OS-specific storage files
 .DS_Store
