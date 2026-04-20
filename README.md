@@ -21,7 +21,7 @@ Develop and compare computer vision models capable of identifying anomalies in m
 **MVTec-AD — Category: Cables**
 
 - **Source:** [MVTec Anomaly Detection Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad)
-- **Task type:** Binary classification — `good` / `defective`
+- **Task type:** Binary classification — `good` / `defective` OR anomaly detection, depending on model
 - **Defect types included:** bent wire, cable cut, combined, missing wire, peel, among others (no defect subcategory distinction in the final label)
 - **Preprocessing:** Data augmentation applied to the training set
 
